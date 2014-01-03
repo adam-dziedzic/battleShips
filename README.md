@@ -1,4 +1,6 @@
 battleShips
 ===========
 
-BattleShips
+BattleShips game
+
+Java 1.6
